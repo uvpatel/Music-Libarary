@@ -1,10 +1,2 @@
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/uvpatel/Music-Libarary.git
-git push -u origin main
-
-git remote add origin https://github.com/uvpatel/Music-Libarary.git
-git branch -M main
-git push -u origin main
+# Music Libarary Project
+- next js Project with Acertinity Libarary.
